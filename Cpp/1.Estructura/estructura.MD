@@ -1,0 +1,13 @@
+###                               C++ Como lenguaje POO
+
+C++ es una extensión (ampliación) de C con características más potentes. Estrictamente hablando es un superconjunto de C.
+Los elementos más importantes añadidos a C por C++ son: clases, objetos y programación orientada a objetos (C++ fue llamado originalmente “C con clases”).En C++, un objeto es un elemento individual con su propia identidad; por ejemplo, un libro, un automóvil... Una clase puede describir las propiedades genéricas de un ejecutivo de una empresa (nombre, título, salario, cargo...) mientras que un
+objeto representará a un ejecutivo específico (Luis Mackoy, Lucas Soblechero).
+En general, una clase define qué datos se utilizan para representar un objeto y las operaciones que se pueden ejecutar sobre esos datos. En el sentido estricto de programación, una clase es un tipo de datos. Diferentes variables se pueden crear de este tipo. En programación orientada a objetos, estas variables se llaman instancias. Las instancias son, por consiguiente, la realización de los objetos descritos en una clase. Estas instancias constan de datos o atributos descritos en la clase y se pueden manipular con las operaciones definidas dentro de ellas.
+Una clase es una descripción general de un conjunto de objetos similares. Por definición todos los objetos de una clase comparten los mismos atributos (datos) y las mismas operaciones (métodos). Una clase encapsula las abstracciones de datos y operaciones necesarias para describir una entidad u objeto del mundo real.
+El diseño de clases fiables y útiles puede ser una tarea difícil. Afortunadamente los lenguajes de programación orientada a objetos facilitan la tarea ya que incorporan clases existentes en su propia programación. Uno de los beneficios reales de C++ es que permite la reutilización y adaptación de códigos existentes y ya bien probados y depurados.
+
+###                                  Disenio de clases
+
+En el diseño de programas orientados a objetos se realiza en primer lugar el diseño de las clases que representan con precisión aquellas cosas que trata el programa; por ejemplo, un programa de dibujo, puede definir clases que representan rectángulos, líneas, pinceles, colores, etc. Las definiciones de clases, incluyen una descripción de operaciones permisibles para cada clase, tales como desplazamiento de un círculo o rotación de una línea. A continuación se prosigue el diseño de un programa utilizando objetos de las clases.
+Los términos objeto e instancia se utilizan frecuentemente como sinónimos (especialmente en C++). Si una variable de tipo Carro se declara, se crea un objeto Carro (una instancia de la clase Carro). Las operaciones definidas en los objetos se llaman métodos.
