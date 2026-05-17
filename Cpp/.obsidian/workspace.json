@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "7385871eb2a2bae6",
+    "id": "c92c91ed22dad287",
     "type": "split",
     "children": [
       {
-        "id": "eb09fe7086afc590",
+        "id": "84e9b133af060681",
         "type": "tabs",
         "children": [
           {
-            "id": "535fc03f17028174",
+            "id": "ce0b0fee339eb3b7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2.Conceptos/Variables.MD",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Variables"
             }
           }
         ]
@@ -23,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "10cd78469576a382",
+    "id": "47917c8b450f8668",
     "type": "split",
     "children": [
       {
-        "id": "8ae62a66b0caf5c6",
+        "id": "9e302c5cde72e2b3",
         "type": "tabs",
         "children": [
           {
-            "id": "91509582d2766aa6",
+            "id": "48a56c260f466e8b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +48,7 @@
             }
           },
           {
-            "id": "5d6f10f93f2201df",
+            "id": "2f10295247e2bf43",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +65,7 @@
             }
           },
           {
-            "id": "d8b615a163a72c94",
+            "id": "f90e6deed09697f3",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "5ace36f2947fd8eb",
+    "id": "e77d9c434dee11ae",
     "type": "split",
     "children": [
       {
-        "id": "8e9ec8c8d38e3923",
+        "id": "8f25d5c8ccab5aa0",
         "type": "tabs",
         "children": [
           {
-            "id": "5ff20ea895f1c6af",
+            "id": "f9259c17a622136c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bienvenido.md",
+                "file": "2.Conceptos/Variables.MD",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Bienvenido"
+              "title": "Enlaces entrantes de Variables"
             }
           },
           {
-            "id": "c8e7c241f94e4c55",
+            "id": "0d718de24e6e0cf7",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bienvenido.md",
+                "file": "2.Conceptos/Variables.MD",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Bienvenido"
+              "title": "Enlaces salientes de Variables"
             }
           },
           {
-            "id": "72b89833d962388f",
+            "id": "e122e625f7cdfe2f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,7 +137,7 @@
             }
           },
           {
-            "id": "e31a6fb088929d84",
+            "id": "a44c939b41322b56",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -147,18 +151,18 @@
             }
           },
           {
-            "id": "f51db442f3942f0e",
+            "id": "7d517315a2c9f3e9",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bienvenido.md",
+                "file": "2.Conceptos/Variables.MD",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Bienvenido"
+              "title": "Esquema de Variables"
             }
           }
         ]
@@ -179,13 +183,21 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "91509582d2766aa6",
+  "active": "ce0b0fee339eb3b7",
   "lastOpenFiles": [
-    "Sin título.base",
-    "Sin título.canvas",
-    "2026-05-16.md",
-    "Sin título.md",
-    "cree un enlace.md",
-    "Bienvenido.md"
+    "3.Expresiones/cilin.exe",
+    "3.Expresiones/cilin.cpp",
+    "3.Expresiones/Cilindro.exe",
+    "3.Expresiones/Cilindro.cpp",
+    "3.Expresiones/entrada.exe",
+    "3.Expresiones/entrada.cpp",
+    "3.Expresiones/circulo.exe",
+    "3.Expresiones/logica.exe",
+    "3.Expresiones/logica.cpp",
+    "2.Conceptos/Boolean.MD",
+    "5.Funciones/parametros.MD",
+    "5.Funciones/inline.MD",
+    "5.Funciones/funcion.MD",
+    "1.Estructura/estructura.MD"
   ]
 }
