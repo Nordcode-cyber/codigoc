@@ -1,4 +1,4 @@
-###                                         Operadores   Logicos C++
+###                                         Operadores   Lógicos C++
 
 Los operadores lógicos se utilizan con expresiones para devolver un valor verdadero (cualquier entero distinto de cero) o un
 valor falso (0). Los operadores lógicos de C son: not (!), and (&&) y or(||). El operador unitario lógico ! (not, no) produce
@@ -8,7 +8,7 @@ binario lógico || (or, o) produce verdadero si cualquiera de los operandos es v
 sólo si ambos operandos son falsos.
 La precedencia de los operadores es: los operadores matemáticos tienen precedencia sobre los operadores relacionales, y
 los operadores relacionales tienen precedencia sobre los operadores lógicos.
-####                                         prioridad sobre operadores logicos
+####                                         prioridad sobre operadores lógicos
 
 El operador *!* (not) tiene prioridad más alta que *&&* (and), que a su vez tiene mayor prioridad que *||* or. La asociatividad,
 es de izquierda a derecha.
