@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Expresiones/Relacional.MD",
+                "file": "3.Expresiones/Logicos.MD",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Relacional"
+              "title": "Logicos"
             }
           }
         ]
@@ -185,6 +185,7 @@
   },
   "active": "ce0b0fee339eb3b7",
   "lastOpenFiles": [
+    "3.Expresiones/Relacional.MD",
     "3.Expresiones/Asignacion.MD",
     "3.Expresiones/Aritmetica.MD",
     "11.Busqueda/binaria.MD",
@@ -193,7 +194,6 @@
     "1.Estructura/estructura.MD",
     "4.Ciclos/dowhile.MD",
     "3.Expresiones/Sizeof.MD",
-    "3.Expresiones/Relacional.MD",
     "3.Expresiones/Logicos.MD",
     "2.Conceptos/Variables.MD",
     "3.Expresiones/cilin.exe",
