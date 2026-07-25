@@ -19,11 +19,11 @@ Así, se dirá que un algoritmo determinado emplea un tiempo O(n) que se lee "O 
 ###                                        FUNCIONES DE COMPLEJIDAD DE ALGORITMOS
 
 
-| Funcion        | tipo               | calificación                             | usos                                 |
-| -------------- | ------------------ | ---------------------------------------- | ------------------------------------ |
-| $O(1)$.        | Constante          | la mas deseada                           | algoritmos sin blucles               |
-| $O(log(n))$.   | Logarítmica        | complejidad optima                       | Búsqueda Binaria                     |
-| $O(n)$.        | Lineal             | muy buena                                | llamadas recursiva, algoritmo mezcla |
-| $O(n2)$        | Cuadratica         | tiempo se dispara                        | bucles anidados doble.               |
-| $O(n3)$        | Cubica             | para $n$ grande crece excesivamente      | producto de matrices                 |
+| Funcion      | tipo        | calificación                        | usos                                 |
+| ------------ | ----------- | ----------------------------------- | ------------------------------------ |
+| $O(1)$.      | Constante   | la mas deseada                      | algoritmos sin blucles               |
+| $O(log(n))$. | Logarítmica | complejidad optima                  | Búsqueda Binaria                     |
+| $O(n)$.      | Lineal      | muy buena                           | llamadas recursiva, algoritmo mezcla |
+| $O(n2)$      | Cuadratica  | tiempo se dispara                   | bucles anidados doble.               |
+| $O(n3)$      | Cubica      | para $n$ grande crece excesivamente | producto de matrices                 |
 
