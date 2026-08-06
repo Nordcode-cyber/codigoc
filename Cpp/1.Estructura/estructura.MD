@@ -7,7 +7,7 @@ En general, una clase define qué datos se utilizan para representar un objeto y
 Una clase es una descripción general de un conjunto de objetos similares. Por definición todos los objetos de una clase comparten los mismos atributos (datos) y las mismas operaciones (métodos). Una clase encapsula las abstracciones de datos y operaciones necesarias para describir una entidad u objeto del mundo real.
 El diseño de clases fiables y útiles puede ser una tarea difícil. Afortunadamente los lenguajes de programación orientada a objetos facilitan la tarea ya que incorporan clases existentes en su propia programación. Uno de los beneficios reales de C++ es que permite la reutilización y adaptación de códigos existentes y ya bien probados y depurados.
 
-###                                  Disenio de clases
+###                                  Diseño de clases
 
 En el diseño de programas orientados a objetos se realiza en primer lugar el diseño de las clases que representan con precisión aquellas cosas que trata el programa; por ejemplo, un programa de dibujo, puede definir clases que representan rectángulos, líneas, pinceles, colores, etc. Las definiciones de clases, incluyen una descripción de operaciones permisibles para cada clase, tales como desplazamiento de un círculo o rotación de una línea. A continuación se prosigue el diseño de un programa utilizando objetos de las clases.
 Los términos objeto e instancia se utilizan frecuentemente como sinónimos (especialmente en C++). Si una variable de tipo Carro se declara, se crea un objeto Carro (una instancia de la clase Carro). Las operaciones definidas en los objetos se llaman métodos.

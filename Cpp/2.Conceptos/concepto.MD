@@ -1,8 +1,8 @@
 ###                                Archivo .c
 
 ```#include <iostream.h>```      *archivo de cabecera iostream.h( o <iostream>)*
-```int main(){  ```              *cabecera de la funcion* main *nombre de la funcion*
-```   ... ```                      ... *sentencias de la funcion*
+```int main(){  ```              *cabecera de la función* main *nombre de la funcion*
+```   ... ```                      ... *sentencias de la función*
 ```}```
 
 ####                               #include <iostream>    
@@ -24,8 +24,19 @@ Los archivos de cabecera en C++ tienen normalmente una extensión .h y los archi
 ####                                Tipos de datos
 
 
+
+
+
+
+
+
+
+
+
+
+
 |Tipo básico |	Tipo	|Ejemplo	|Tamaño en bytes|	Rango min	|Rango max  |
-|--------------------------------------------------------------------------------
+|------------|------------------------------------------------------------------|
 |Carácter    |	Char	|   ‘c’	    |     1	        |      0	    |  255      |
 |Entero      |  short   |   -15     |     2         |     -128      |  127      |
 |Entero      |  int     |  1024     |     2         |     -32768    |  32767    |
