@@ -28,3 +28,19 @@ ser inicializado mediante sentencias explícitas de asignación o bien en la pro
 ```float num[5] = {11,21,31,41,51,60};```
 ```int n[] = {3, 4, 5};```
 ```char Nombre [ ] = {‘L’,’u’,’c’,’a’,’s’};```
+#####                                            Arrays Multidimensionales
+
+Los Arrays vistos anteriormente se conocen como Arrays unidimensionales (una sola dimensión) y se caracterizan por tener un solo subíndice. 
+Estos Arrays se conocen también por el término listas. Los arrays multidimensionales son aquellos que tienen más de una dimensión y, 
+en consecuencia, mas de un índice. Los más usuales son los de dos dimensiones, conocidos también por el nombre de tablas o matrices. 
+Sin embargo, es posible crear arrays de tantas dimensiones como requieran sus aplicaciones, ya sean tres, cuatro o más.
+Un array de dos dimensiones (m × n) equivale a una tabla con múltiples filas y múltiples columnas.
+
+${<tipo de}$ ${ dato }$ ${elemento>}$ ${<nombre-array>}$ ${<[N1]>}$  ${<[N2]>}$  ${<[N3]>}$ 
+
+####                                          Declaracion Arrays Multidimensionales
+
+Las siguientes sentencias declaran arrays multidimensionales.
+float mat[25][80]; /* matriz bidimensional real*/
+int p[6][8][10]; /* array de tres dimensiones de tipo entero*/
+int e[4][30][2][5]; /* array de cuatro dimensiones de tipo entero*/

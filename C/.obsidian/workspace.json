@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.eficiencia/Complejidad.MD",
+                "file": "2.Arrays/Arrays.MD",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Complejidad"
+              "title": "Arrays"
             }
           }
         ]
@@ -184,8 +184,8 @@
   },
   "active": "1a6d45a369e14072",
   "lastOpenFiles": [
-    "1.eficiencia/Analisis.MD",
     "1.eficiencia/Complejidad.MD",
+    "1.eficiencia/Analisis.MD",
     "2.Arrays/enums.MD",
     "2.Arrays/Arrays.MD",
     "3.Recursividad/Backtracking.MD",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Conceptos/concepto.MD",
+                "file": "2.Conceptos/Caracteres.MD",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "concepto"
+              "title": "Caracteres"
             }
           }
         ]
@@ -187,6 +187,7 @@
   },
   "active": "394adb0cf4154387",
   "lastOpenFiles": [
+    "2.Conceptos/concepto.MD",
     "1.Estructura/estructura.MD",
     "4.Ciclos/dowhile.MD",
     "5.Funciones/funcion.MD",
