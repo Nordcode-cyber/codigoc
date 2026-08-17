@@ -16,7 +16,7 @@ En general, el elemento i-ésimo está en la posición i-1. La sintaxis de decla
 El acceso a los elementos de un array se realiza mediante:
 `nombreArray[expresiónentera];`
 
-#####                                       Expresion entera
+#####                                       Expresión entera
 
 Donde expresión entera es una expresión cuyo valor debe estar entre ${0}$ y ${numeroDeElementos}$ ${-1}$, ya que C no verifica
 que las expresiones de los índices de los array estén dentro del rango declarado. El almacenamiento de los datos de un array
@@ -38,7 +38,11 @@ Un array de dos dimensiones (m × n) equivale a una tabla con múltiples filas y
 
 ${<tipo de}$ ${ dato }$ ${elemento>}$ ${<nombre-array>}$ ${<[N1]>}$  ${<[N2]>}$  ${<[N3]>}$ 
 
-####                                          Declaracion Arrays Multidimensionales
+####                                          Declaración Arrays Multidimensionales
+Los arrays multidimensionales son aquellos que tienen más de una dimensión y, en consecuencia, más de un índice. Los arrays
+más usuales son los de dos dimensiones, conocidos también por el nombre de tablas o matrices. Sin embargo, es posible crear
+arrays de tantas dimensiones como requieran sus aplicaciones, esto es, tres, cuatro o más dimensiones. La sintaxis para la
+declaración de un array de tres dimensiones es:
 
 Las siguientes sentencias declaran arrays multidimensionales.
 float mat[25][80]; /* matriz bidimensional real*/
