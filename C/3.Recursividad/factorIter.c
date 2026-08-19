@@ -11,7 +11,7 @@ unsigned long long factorial_iterativo(int n) {
 }
 
 int main() {
-    int num = 12;
+    int num = 3;
     printf("Factorial iterativo de %d: %llu\n", num, factorial_iterativo(num));
     return 0;
 }

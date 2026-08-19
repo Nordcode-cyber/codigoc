@@ -1,4 +1,4 @@
-###                           Divide y Venceras
+###                           Divide y Vencerás
 
 El diseño de algoritmos basados en esta técnica consiste en transformar (dividir) un problema de tamaño n en problemas más
 pequeños, de tamaño menor que n pero similares al problema original. De modo que resolviendo los subproblemas y combinando
