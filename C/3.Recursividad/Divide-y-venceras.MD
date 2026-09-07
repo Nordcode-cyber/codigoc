@@ -8,13 +8,13 @@ La condición para dejar de hacer llamadas es, normalmente, la obtención de un 
 se denomina el caso base o caso trivial. El algoritmo general del método es el siguiente:
 algoritmo DivideyVence(E <límites del problema a tratar>; ...)
 inicio
-${si <Caso trivial> entonces}$
-${<Solución trivial>}$
-${si_no}$
-${<dividir el problema en subproblemas>}$
-${desde <cada subproblemai> hacer}$
-${DivideyVence(<Subproblemai>, ...)}$
-${fin desde}$w
-${<combinar las soluciones de los subproblemas>}$
-${fin_si}$
-${fin_algoritmo}$
+`si <Caso trivial> entonces`
+`<Solución trivial>`
+`si_no`
+`<dividir el problema en subproblemas>`
+`desde <cada subproblemai> hacer`
+`DivideyVence(<Subproblemai>, ...)`
+`fin desde`
+`<combinar las soluciones de los subproblemas>`
+`fin_si}$`
+`fin_algoritmo`

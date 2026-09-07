@@ -48,3 +48,14 @@ Las siguientes sentencias declaran arrays multidimensionales.
 float mat[25][80]; /* matriz bidimensional real*/
 int p[6][8][10]; /* array de tres dimensiones de tipo entero*/
 int e[4][30][2][5]; /* array de cuatro dimensiones de tipo entero*/
+Los arrays multidimensionales se pueden inicializar, al igual que los de una dimensión, cuando se declaran, teniendo
+en cuenta que se almacenan por filas. La inicialización consta de una lista de constantes separadas por comas y encerradas
+entre llaves.
+sentencias declaran e inicializan un array bidimensional:
+int t[2][3] = {51,52,53,54,55,56};
+int t[2][3]= {{51,52,53},{54,55,56}};
+en ambas declaraciones los elementos se inicializan a:
+t[0][0] =51, t[0][1]= 52, t[0][2]=53, t[1][0]= 54, t[1][1]=55, t[1][2]=56.
+El acceso a los elementos de arrays bidimensionales o multidimensionales se realiza de forma análoga a la de los arrays
+unidimensionalales. La diferencia reside en que en los elementos bidimensionales por ejemplo deben especificarse los
+índices de la fila y la columna. El formato general para asignación o extracción de elementos es:
