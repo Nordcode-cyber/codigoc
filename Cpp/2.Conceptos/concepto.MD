@@ -23,18 +23,6 @@ Los archivos de cabecera en C++ tienen normalmente una extensión .h y los archi
 *//hola mundo cruel*
 ####                                Tipos de datos
 
-
-
-
-
-
-
-
-
-
-
-
-
 |Tipo básico |	Tipo	|Ejemplo	|Tamaño en bytes|	Rango min	|Rango max  |
 |------------|------------------------------------------------------------------|
 |Carácter    |	Char	|   ‘c’	    |     1	        |      0	    |  255      |
